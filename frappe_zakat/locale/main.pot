@@ -1,0 +1,301 @@
+# Translations template for Frappe Zakat.
+# Copyright (C) 2025 Lavaloon
+# This file is distributed under the same license as the Frappe Zakat project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Frappe Zakat VERSION\n"
+"Report-Msgid-Bugs-To: info@lavaloon.com\n"
+"POT-Creation-Date: 2025-07-20 10:00+0000\n"
+"PO-Revision-Date: 2025-07-20 10:00+0000\n"
+"Last-Translator: info@lavaloon.com\n"
+"Language-Team: info@lavaloon.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.13.1\n"
+
+#. Header text in the Zakat Workspace
+#: frappe_zakat/frappe_zakat/workspace/zakat/zakat.json
+msgid "<span class=\"h4\"><b>Operation</b></span>"
+msgstr ""
+
+#. Header text in the Zakat Workspace
+#: frappe_zakat/frappe_zakat/workspace/zakat/zakat.json
+msgid "<span class=\"h4\"><b>Report</b></span>"
+msgstr ""
+
+#. Label of the amount_eligible_for_zakat (Currency) field in DocType 'ZAKAT
+#. Calculation'
+#: frappe_zakat/frappe_zakat/doctype/zakat_calculation/zakat_calculation.json
+msgid "Amount Eligible for Zakat"
+msgstr ""
+
+#. Name of a report
+#. Label of a shortcut in the Zakat Workspace
+#: frappe_zakat/frappe_zakat/report/annual_zakat/annual_zakat.json
+#: frappe_zakat/frappe_zakat/workspace/zakat/zakat.json
+msgid "Annual Zakat"
+msgstr ""
+
+#: frappe_zakat/frappe_zakat/report/annual_zakat/annual_zakat.py:135
+#: frappe_zakat/frappe_zakat/report/annual_zakat/annual_zakat.py:159
+msgid "Average Gold Price"
+msgstr ""
+
+#: frappe_zakat/frappe_zakat/report/annual_zakat/annual_zakat.py:139
+#: frappe_zakat/frappe_zakat/report/annual_zakat/annual_zakat.py:163
+msgid "Average Nisab Threshold"
+msgstr ""
+
+#. Label of the business_assets_tab (Tab Break) field in DocType 'ZAKAT
+#. Calculation'
+#: frappe_zakat/frappe_zakat/doctype/zakat_calculation/zakat_calculation.json
+msgid "Business Assets"
+msgstr ""
+
+#. Label of the business_assets_details_section (Section Break) field in
+#. DocType 'ZAKAT Calculation'
+#: frappe_zakat/frappe_zakat/doctype/zakat_calculation/zakat_calculation.json
+msgid "Business Assets Details"
+msgstr ""
+
+#. Label of the business_assets_zakat_amount (Currency) field in DocType 'ZAKAT
+#. Calculation'
+#: frappe_zakat/frappe_zakat/doctype/zakat_calculation/zakat_calculation.json
+msgid "Business Assets Zakat Amount "
+msgstr ""
+
+#. Label of the cash_and_bank_balances_tab (Tab Break) field in DocType 'ZAKAT
+#. Calculation'
+#: frappe_zakat/frappe_zakat/doctype/zakat_calculation/zakat_calculation.json
+msgid "Cash and Bank Balances"
+msgstr ""
+
+#. Label of the cash_and_bank_balances_details_section (Section Break) field in
+#. DocType 'ZAKAT Calculation'
+#: frappe_zakat/frappe_zakat/doctype/zakat_calculation/zakat_calculation.json
+msgid "Cash and Bank Balances Details"
+msgstr ""
+
+#. Label of the company (Link) field in DocType 'ZAKAT Calculation'
+#: frappe_zakat/frappe_zakat/doctype/zakat_calculation/zakat_calculation.json
+#: frappe_zakat/frappe_zakat/report/annual_zakat/annual_zakat.py:85
+msgid "Company"
+msgstr ""
+
+#. Label of the current_24k_gold_price_for_1_gm (Currency) field in DocType
+#. 'ZAKAT Calculation'
+#: frappe_zakat/frappe_zakat/doctype/zakat_calculation/zakat_calculation.json
+msgid "Current 24K Gold Price for 1 gm"
+msgstr ""
+
+#. Label of the current_silver_price_for_1_gm (Currency) field in DocType
+#. 'ZAKAT Calculation'
+#: frappe_zakat/frappe_zakat/doctype/zakat_calculation/zakat_calculation.json
+msgid "Current Silver Price for 1 gm"
+msgstr ""
+
+#. Label of the details_section (Section Break) field in DocType 'ZAKAT
+#. Calculation'
+#: frappe_zakat/frappe_zakat/doctype/zakat_calculation/zakat_calculation.json
+msgid "Details"
+msgstr ""
+
+#. Label of the end_fiscal_year (Date) field in DocType 'ZAKAT Calculation'
+#: frappe_zakat/frappe_zakat/doctype/zakat_calculation/zakat_calculation.json
+msgid "End Fiscal Year"
+msgstr ""
+
+#. Label of the equivalent_value_to_24k (Float) field in DocType 'Zakat Gold
+#. Item'
+#: frappe_zakat/frappe_zakat/doctype/zakat_gold_item/zakat_gold_item.json
+msgid "Equivalent Value to 24K"
+msgstr ""
+
+#: frappe_zakat/frappe_zakat/report/annual_zakat/annual_zakat.py:91
+msgid "Fiscal Year"
+msgstr ""
+
+#. Label of the golds_section (Section Break) field in DocType 'ZAKAT
+#. Calculation'
+#: frappe_zakat/frappe_zakat/doctype/zakat_calculation/zakat_calculation.json
+msgid "Gold"
+msgstr ""
+
+#. Label of the gold_amount (Currency) field in DocType 'Zakat Gold Item'
+#: frappe_zakat/frappe_zakat/doctype/zakat_gold_item/zakat_gold_item.json
+msgid "Gold Amount"
+msgstr ""
+
+#. Label of the gold_holdings (Table) field in DocType 'ZAKAT Calculation'
+#: frappe_zakat/frappe_zakat/doctype/zakat_calculation/zakat_calculation.json
+msgid "Gold Holdings"
+msgstr ""
+
+#. Label of the gold_karat (Select) field in DocType 'Zakat Gold Item'
+#: frappe_zakat/frappe_zakat/doctype/zakat_gold_item/zakat_gold_item.json
+msgid "Gold Karat"
+msgstr ""
+
+#: frappe_zakat/frappe_zakat/report/annual_zakat/annual_zakat.py:97
+msgid "Gold Price"
+msgstr ""
+
+#. Label of the gold_and_silver_holdings_tab (Tab Break) field in DocType
+#. 'ZAKAT Calculation'
+#: frappe_zakat/frappe_zakat/doctype/zakat_calculation/zakat_calculation.json
+msgid "Gold and Silver Holdings"
+msgstr ""
+
+#. Label of the grams (Float) field in DocType 'Zakat Gold Item'
+#: frappe_zakat/frappe_zakat/doctype/zakat_gold_item/zakat_gold_item.json
+msgid "Grams"
+msgstr ""
+
+#. Label of the inventory_value (Currency) field in DocType 'ZAKAT Calculation'
+#: frappe_zakat/frappe_zakat/doctype/zakat_calculation/zakat_calculation.json
+msgid "Inventory Value"
+msgstr ""
+
+#. Description of the 'Amount Eligible for Zakat' (Currency) field in DocType
+#. 'ZAKAT Calculation'
+#: frappe_zakat/frappe_zakat/doctype/zakat_calculation/zakat_calculation.json
+msgid "Inventory value + Receivables – Liabilities"
+msgstr ""
+
+#. Label of the liabilities (Currency) field in DocType 'ZAKAT Calculation'
+#: frappe_zakat/frappe_zakat/doctype/zakat_calculation/zakat_calculation.json
+msgid "Liabilities"
+msgstr ""
+
+#. Label of the main_terms_and_total_tab (Tab Break) field in DocType 'ZAKAT
+#. Calculation'
+#: frappe_zakat/frappe_zakat/doctype/zakat_calculation/zakat_calculation.json
+msgid "Main Terms & Total"
+msgstr ""
+
+#. Label of the nisab_threshold (Currency) field in DocType 'ZAKAT Calculation'
+#: frappe_zakat/frappe_zakat/doctype/zakat_calculation/zakat_calculation.json
+#: frappe_zakat/frappe_zakat/report/annual_zakat/annual_zakat.py:103
+msgid "Nisab Threshold"
+msgstr ""
+
+#. Label of the receivables (Currency) field in DocType 'ZAKAT Calculation'
+#: frappe_zakat/frappe_zakat/doctype/zakat_calculation/zakat_calculation.json
+msgid "Receivables"
+msgstr ""
+
+#. Label of the silver_section (Section Break) field in DocType 'ZAKAT
+#. Calculation'
+#: frappe_zakat/frappe_zakat/doctype/zakat_calculation/zakat_calculation.json
+msgid "Silver"
+msgstr ""
+
+#. Label of the start_fiscal_year (Date) field in DocType 'ZAKAT Calculation'
+#: frappe_zakat/frappe_zakat/doctype/zakat_calculation/zakat_calculation.json
+msgid "Start Fiscal Year "
+msgstr ""
+
+#. Name of a role
+#: frappe_zakat/frappe_zakat/doctype/zakat_calculation/zakat_calculation.json
+msgid "System Manager"
+msgstr ""
+
+#: frappe_zakat/frappe_zakat/report/annual_zakat/annual_zakat.py:109
+#: frappe_zakat/frappe_zakat/report/annual_zakat/annual_zakat.py:131
+#: frappe_zakat/frappe_zakat/report/annual_zakat/annual_zakat.py:155
+msgid "Total Amount Eligible for Zakat"
+msgstr ""
+
+#. Label of the total_cash_amount (Currency) field in DocType 'ZAKAT
+#. Calculation'
+#: frappe_zakat/frappe_zakat/doctype/zakat_calculation/zakat_calculation.json
+msgid "Total Cash Amount"
+msgstr ""
+
+#. Label of the total_cash_zakat_amount (Currency) field in DocType 'ZAKAT
+#. Calculation'
+#: frappe_zakat/frappe_zakat/doctype/zakat_calculation/zakat_calculation.json
+msgid "Total Cash Zakat Amount"
+msgstr ""
+
+#. Label of the total_gold_amount (Currency) field in DocType 'ZAKAT
+#. Calculation'
+#: frappe_zakat/frappe_zakat/doctype/zakat_calculation/zakat_calculation.json
+msgid "Total Gold Amount"
+msgstr ""
+
+#. Label of the total_gold_amount_eligible_for_zakat (Currency) field in
+#. DocType 'ZAKAT Calculation'
+#: frappe_zakat/frappe_zakat/doctype/zakat_calculation/zakat_calculation.json
+msgid "Total Gold Amount Eligible for Zakat"
+msgstr ""
+
+#. Label of the total_gold_zakat_amount (Currency) field in DocType 'ZAKAT
+#. Calculation'
+#: frappe_zakat/frappe_zakat/doctype/zakat_calculation/zakat_calculation.json
+msgid "Total Gold Zakat Amount"
+msgstr ""
+
+#. Label of the total_silver_amount (Currency) field in DocType 'ZAKAT
+#. Calculation'
+#: frappe_zakat/frappe_zakat/doctype/zakat_calculation/zakat_calculation.json
+msgid "Total Silver Amount"
+msgstr ""
+
+#. Label of the total_silver_grams (Float) field in DocType 'ZAKAT Calculation'
+#: frappe_zakat/frappe_zakat/doctype/zakat_calculation/zakat_calculation.json
+msgid "Total Silver Grams"
+msgstr ""
+
+#. Label of the total_silver_zakat_amount (Currency) field in DocType 'ZAKAT
+#. Calculation'
+#: frappe_zakat/frappe_zakat/doctype/zakat_calculation/zakat_calculation.json
+msgid "Total Silver Zakat Amount"
+msgstr ""
+
+#. Label of the total_zakat_amount_section (Section Break) field in DocType
+#. 'ZAKAT Calculation'
+#: frappe_zakat/frappe_zakat/doctype/zakat_calculation/zakat_calculation.json
+msgid "Total ZAKAT Amount"
+msgstr ""
+
+#: frappe_zakat/frappe_zakat/report/annual_zakat/annual_zakat.py:115
+#: frappe_zakat/frappe_zakat/report/annual_zakat/annual_zakat.py:127
+#: frappe_zakat/frappe_zakat/report/annual_zakat/annual_zakat.py:151
+msgid "Total Zakat Amount"
+msgstr ""
+
+#. Label of the total_zakat_amount_for_each_entered_type (Text Editor) field in
+#. DocType 'ZAKAT Calculation'
+#: frappe_zakat/frappe_zakat/doctype/zakat_calculation/zakat_calculation.json
+msgid "Total Zakat Amount for Each Entered Type"
+msgstr ""
+
+#. Name of a DocType
+#: frappe_zakat/frappe_zakat/doctype/zakat_calculation/zakat_calculation.json
+msgid "ZAKAT Calculation"
+msgstr ""
+
+#. Name of a Workspace
+#: frappe_zakat/frappe_zakat/workspace/zakat/zakat.json
+msgid "Zakat"
+msgstr ""
+
+#. Label of the zakat_amount (Currency) field in DocType 'Zakat Gold Item'
+#: frappe_zakat/frappe_zakat/doctype/zakat_gold_item/zakat_gold_item.json
+msgid "Zakat Amount"
+msgstr ""
+
+#. Label of a shortcut in the Zakat Workspace
+#: frappe_zakat/frappe_zakat/workspace/zakat/zakat.json
+msgid "Zakat Calculation"
+msgstr ""
+
+#. Name of a DocType
+#: frappe_zakat/frappe_zakat/doctype/zakat_gold_item/zakat_gold_item.json
+msgid "Zakat Gold Item"
+msgstr ""
+

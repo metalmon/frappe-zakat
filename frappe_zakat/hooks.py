@@ -1,7 +1,7 @@
 app_name = "frappe_zakat"
-app_title = "Frappe Zakat"
+app_title = "Закят"
 app_publisher = "Lavaloon"
-app_description = "Frappe Zakat App to help business owners and individuals to calculate the required ZAKAT amount based on the Islamic regulations."
+app_description = "Закят - это обязательный налог, который должен платить каждый мусульманин, имеющий достаточные средства для его уплаты."
 app_email = "info@lavaloon.com"
 app_license = "agpl-3.0"
 
